@@ -1,0 +1,30 @@
+{
+  "name": "vscode-kroma",
+  "displayName": "Kroma",
+  "description": "Kroma theme for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "Darko Kuzmanovic",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kroma Oriole",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kroma-Oriole-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish",
+    "build-theme": "node build-theme.js"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
