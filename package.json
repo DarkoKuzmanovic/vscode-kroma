@@ -16,6 +16,11 @@
         "label": "Kroma Oriole",
         "uiTheme": "vs-dark",
         "path": "./themes/Kroma-Oriole-color-theme.json"
+      },
+      {
+        "label": "Kroma Hummingbird",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kroma-Hummingbird-color-theme.json"
       }
     ]
   },
