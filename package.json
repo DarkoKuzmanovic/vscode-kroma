@@ -3,13 +3,18 @@
   "displayName": "Kroma",
   "description": "Kroma theme for Visual Studio Code",
   "version": "0.0.1",
-  "publisher": "Darko Kuzmanovic",
+  "publisher": "quzma",
+  "homepage": "https://quz.ma",
   "engines": {
     "vscode": "^1.92.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarkoKuzmanovic/vscode-kroma.git"
+  },
   "contributes": {
     "themes": [
       {
@@ -21,6 +26,11 @@
         "label": "Kroma Hummingbird",
         "uiTheme": "vs-dark",
         "path": "./themes/Kroma-Hummingbird-color-theme.json"
+      },
+      {
+        "label": "Kroma Kingfisher",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kroma-Kingfisher-color-theme.json"
       }
     ]
   },
