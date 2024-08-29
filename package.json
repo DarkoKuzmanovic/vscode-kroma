@@ -2,7 +2,7 @@
   "name": "vscode-kroma",
   "displayName": "Kroma",
   "description": "Kroma theme for Visual Studio Code",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "quzma",
   "homepage": "https://quz.ma",
   "engines": {
@@ -31,6 +31,21 @@
         "label": "Kroma Kingfisher",
         "uiTheme": "vs-dark",
         "path": "./themes/Kroma-Kingfisher-color-theme.json"
+      },
+      {
+        "label": "Kroma Cardinal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kroma-Cardinal-color-theme.json"
+      },
+      {
+        "label": "Kroma Goldfinch",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kroma-Goldfinch-color-theme.json"
+      },
+      {
+        "label": "Kroma Starling",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kroma-Starling-color-theme.json"
       }
     ]
   },
