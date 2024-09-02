@@ -26,7 +26,6 @@ Each theme is designed to provide a unique and visually appealing coding environ
 - Carefully selected color palettes for improved code readability
 - Distinct themes inspired by beautiful birds
 
-
 ## Links
 
 - [GitHub Repository](https://github.com/DarkoKuzmanovic/vscode-kroma.git)
