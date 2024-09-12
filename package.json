@@ -2,7 +2,7 @@
   "name": "vscode-kroma",
   "displayName": "Kroma",
   "description": "Kroma theme for Visual Studio Code",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publisher": "quzma",
   "icon": "dev/icon.png",
   "homepage": "https://quz.ma",

@@ -37,6 +37,10 @@ Each theme is designed to provide a unique and visually appealing coding environ
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Changelog
+
+- 1.0.0 Initial release
+
 ---
 
 Enjoy coding with Kroma themes! If you have any issues or suggestions, please open an issue on the GitHub repository.
