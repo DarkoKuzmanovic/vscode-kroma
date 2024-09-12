@@ -1875,7 +1875,7 @@
     "listFilterWidget.background": "#88B82821",
     "listFilterWidget.outline": "#ffffff00",
     "listFilterWidget.noMatchesOutline": "#373E24",
-    "list.errorForeground": "##2274A5",
+    "list.errorForeground": "#2274A5",
     "statusBar.foreground": "#999999",
     "statusBar.focusBorder": "#292a2d",
     "statusBar.background": "#202124",
@@ -1951,7 +1951,7 @@
     "editorError.foreground": "#fa4d2b",
     "editorError.background": "#ffffff00",
     "editorError.border": "#ffffff00",
-    "editorWarning.foreground": "##2274A5",
+    "editorWarning.foreground": "#2274A5",
     "editorWarning.background": "#ffffff00",
     "editorWarning.border": "#ffffff00",
     "editorInfo.foreground": "#078aff",
@@ -2011,7 +2011,7 @@
     "scrollbarSlider.background": "#35363a66",
     "scrollbarSlider.hoverBackground": "#99999966",
     "scrollbarSlider.activeBackground": "#88B8286e",
-    "progressBar.background": "##2274A5",
+    "progressBar.background": "#2274A5",
     "widget.shadow": "#00000038",
     "editorWidget.foreground": "#cccccc",
     "editorWidget.background": "#202124",
@@ -2059,7 +2059,7 @@
     "editorHoverWidget.border": "#35363a",
     "peekView.border": "#88B8286e",
     "peekViewEditor.background": "#373E24",
-    "peekViewEditorGutter.background": "##2274A5",
+    "peekViewEditorGutter.background": "#2274A5",
     "peekViewEditor.matchHighlightBackground": "#2274A555",
     "peekViewEditor.matchHighlightBorder": "#2274A5a8",
     "peekViewResult.background": "#292a2d",
@@ -2102,6 +2102,7 @@
     "editorBracketHighlight.foreground3": "#D37A59",
     "editorBracketHighlight.foreground4": "#F1EEE8",
     "editorBracketHighlight.foreground5": "#DAA157",
-    "editorBracketHighlight.foreground6": "#85BF6F"
+    "editorBracketHighlight.foreground6": "#85BF6F",
+    "panel.dropBackground": "#88B828"
   }
 }
