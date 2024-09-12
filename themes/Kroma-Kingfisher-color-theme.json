@@ -2000,7 +2000,7 @@
     "tab.activeForeground": "#ffffff",
     "tab.border": "#202124",
     "tab.activeBackground": "#292a2d",
-    "tab.activeBorder": "#292a2d",
+    "tab.activeBorder": "#0071de55",
     "tab.activeBorderTop": "#292a2d",
     "tab.inactiveBackground": "#202124",
     "tab.inactiveForeground": "#ffffff70",
