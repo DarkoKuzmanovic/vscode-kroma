@@ -2,6 +2,8 @@
 
 Kroma is a collection of 6 sleek and dark themes for Visual Studio Code with accented colors inspired by birds, designed to be distraction-free.
 
+![Screenshot](/images/screenshot.png)
+
 ## Themes
 
 The themes in this collection include:
