@@ -41,6 +41,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Changelog
 
+- 1.0.1 Minor changes
 - 1.0.0 Initial release
 
 ---
