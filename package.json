@@ -2,7 +2,7 @@
   "name": "vscode-kroma",
   "displayName": "Kroma",
   "description": "Kroma theme for Visual Studio Code",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "quzma",
   "icon": "images/icon.png",
   "homepage": "https://quz.ma",
@@ -47,6 +47,11 @@
         "label": "Kroma Starling",
         "uiTheme": "vs-dark",
         "path": "./themes/Kroma-Starling-color-theme.json"
+      },
+      {
+        "label": "Kroma Cardinal Light",
+        "uiTheme": "vs",
+        "path": "./themes/Kroma-Cardinal-Light-color-theme.json"
       }
     ]
   },
