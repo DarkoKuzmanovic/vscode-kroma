@@ -2,7 +2,7 @@
   "name": "vscode-kroma",
   "displayName": "Kroma",
   "description": "Kroma theme for Visual Studio Code",
-  "version": "1.0.2",
+  "version": "1.5.0",
   "publisher": "quzma",
   "icon": "images/icon.png",
   "homepage": "https://quz.ma",
@@ -49,9 +49,64 @@
         "path": "./themes/Kroma-Starling-color-theme.json"
       },
       {
+        "label": "Kroma Oriole Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kroma-Oriole-Flat-color-theme.json"
+      },
+      {
+        "label": "Kroma Hummingbird Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kroma-Hummingbird-Flat-color-theme.json"
+      },
+      {
+        "label": "Kroma Kingfisher Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kroma-Kingfisher-Flat-color-theme.json"
+      },
+      {
+        "label": "Kroma Cardinal Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kroma-Cardinal-Flat-color-theme.json"
+      },
+      {
+        "label": "Kroma Goldfinch Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kroma-Goldfinch-Flat-color-theme.json"
+      },
+      {
+        "label": "Kroma Starling Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kroma-Starling-Flat-color-theme.json"
+      },
+      {
+        "label": "Kroma Oriole Light",
+        "uiTheme": "vs",
+        "path": "./themes/Kroma-Oriole-Light-color-theme.json"
+      },
+      {
+        "label": "Kroma Hummingbird Light",
+        "uiTheme": "vs",
+        "path": "./themes/Kroma-Hummingbird-Light-color-theme.json"
+      },
+      {
+        "label": "Kroma Kingfisher Light",
+        "uiTheme": "vs",
+        "path": "./themes/Kroma-Kingfisher-Light-color-theme.json"
+      },
+      {
         "label": "Kroma Cardinal Light",
         "uiTheme": "vs",
         "path": "./themes/Kroma-Cardinal-Light-color-theme.json"
+      },
+      {
+        "label": "Kroma Goldfinch Light",
+        "uiTheme": "vs",
+        "path": "./themes/Kroma-Goldfinch-Light-color-theme.json"
+      },
+      {
+        "label": "Kroma Starling Light",
+        "uiTheme": "vs",
+        "path": "./themes/Kroma-Starling-Light-color-theme.json"
       }
     ]
   },

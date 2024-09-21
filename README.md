@@ -1,12 +1,12 @@
 # Kroma Theme for Visual Studio Code
 
-Kroma is a collection of 6 sleek and dark themes for Visual Studio Code with accented colors inspired by birds, designed to be distraction-free.
+Kroma is a collection of 18 sleek themes (dark, flat, and light) for Visual Studio Code, designed to provide a distraction-free coding environment. Each theme features accented colors inspired by birds.
 
 ![Screenshot](/images/screenshot.png)
 
 ## Themes
 
-The themes in this collection include:
+The Kroma collection includes the following themes, each with dark, light, and dark flat variants:
 
 1. Kroma Cardinal (Red)
 2. Kroma Goldfinch (Yellow)
@@ -15,7 +15,7 @@ The themes in this collection include:
 5. Kroma Oriole (Orange)
 6. Kroma Starling (Purple)
 
-Each theme is designed to provide a unique and visually appealing coding environment.
+Please note that the light versions of the themes are still in the development phase and may undergo further refinements.
 
 ## Installation
 
@@ -37,14 +37,17 @@ Each theme is designed to provide a unique and visually appealing coding environ
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
 
 ## Changelog
 
+- 1.5.0 Added light themes (preview-only) and flat dark themes
 - 1.0.2 Added test light theme
 - 1.0.1 Minor changes
 - 1.0.0 Initial release
 
 ---
 
-Enjoy coding with Kroma themes! If you have any issues or suggestions, please open an issue on the GitHub repository.
+If you have any issues or suggestions, please open an issue on the GitHub repository.
+
+Happy coding!
